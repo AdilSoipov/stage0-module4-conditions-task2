@@ -7,9 +7,10 @@ public class GreatestNumberPrinter {
         }
         else if(second > first){
         System.out.println(second);
+         } 
         else{
         System.out.println(first);
-        }    
+           
         }
     }
 }
